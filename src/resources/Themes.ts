@@ -8,7 +8,7 @@ import { basicDark } from "@uiw/codemirror-themes-all"
 import { basicLight } from "@uiw/codemirror-themes-all"
 import { bbedit } from "@uiw/codemirror-themes-all"
 import { bespin } from "@uiw/codemirror-themes-all"
-import { copilot } from "@uiw/codemirror-themes-all"
+
 import { darcula } from "@uiw/codemirror-themes-all"
 import { dracula } from "@uiw/codemirror-themes-all"
 import { duotoneDark } from "@uiw/codemirror-themes-all"
@@ -58,7 +58,7 @@ export const editorThemes: EditorTheme = {
     "Basic Light": basicLight,
     BBEdit: bbedit,
     Bespin: bespin,
-    Copilot: copilot,
+    
     Darcula: darcula,
     Dracula: dracula,
     "Duotone Dark": duotoneDark,

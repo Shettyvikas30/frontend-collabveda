@@ -5,7 +5,7 @@
         "lib": ["ESNext", "DOM", "DOM.Iterable"],
         "module": "ESNext",
         "skipLibCheck": true,
-
+        "types": ["firebase"],
         /* Bundler mode */
         "moduleResolution": "Node",
         "allowImportingTsExtensions": true,
