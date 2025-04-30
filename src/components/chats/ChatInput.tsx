@@ -1,5 +1,6 @@
 import { useState, useRef } from "react";
-import { LuSendHorizonal } from "react-icons/lu";
+import { LuSendHorizontal } from "react-icons/lu";
+
 import { BsMicFill, BsMicMuteFill } from "react-icons/bs";
 import { useAppContext } from "@/context/AppContext";
 import { useChatRoom } from "@/context/ChatContext";
@@ -106,7 +107,7 @@ function ChatInput() {
                     className="flex items-center justify-center rounded-r-md bg-primary p-2 text-black"
                     type="submit"
                 >
-                    <LuSendHorizonal size={24} />
+                    <LuSendHorizontal size={24} />
                 </button>
             </form>
         </div>

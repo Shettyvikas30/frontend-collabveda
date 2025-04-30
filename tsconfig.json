@@ -5,7 +5,7 @@
         "lib": ["ESNext", "DOM", "DOM.Iterable"],
         "module": "ESNext",
         "skipLibCheck": true,
-        "types": ["firebase"],
+        
         /* Bundler mode */
         "moduleResolution": "Node",
         "allowImportingTsExtensions": true,
@@ -13,7 +13,7 @@
         "isolatedModules": false,
         "noEmit": true,
         "jsx": "react-jsx",
-
+        
         /* Linting */
         "strict": true,
         "noUnusedLocals": true,
